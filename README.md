@@ -10,7 +10,7 @@ Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building Bla
 ![](https://img.shields.io/badge/.NET-MAUI-%23000)
 ![](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)
 
-![](https://img.shields.io/badge/Relational DB-SQL Server-%23e535ab)
+![](https://img.shields.io/badge/Relational-DB-SQL Server-%23e535ab)
 ![](https://img.shields.io/badge/JavaScript-React-%2361DBFB)
 ![](https://img.shields.io/badge/JavaScript-ES6-%2341B883)
 ![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
