@@ -1,7 +1,7 @@
 ### hiya, I'm Bradfield 👨🏻‍💻
 
 
-Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building Blazor/.NET MAUI cross platform applications for [Near2Perfection](https://linktr.ee/CarmenMcDonald) and continue to improve my [Portfolio site](https://myportfolioblog.azurewebsites.net/).
+Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building Blazor and .NET MAUI cross platform applications for [Near2Perfection](https://linktr.ee/CarmenMcDonald) and working to improve my [Portfolio site](https://myportfolioblog.azurewebsites.net/).
 
 ##### Tools I'm passionate about 🛠
 
