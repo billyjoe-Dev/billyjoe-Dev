@@ -5,7 +5,7 @@ Web wizard 🧙🏻‍♂️ and coffee enthusiast ☕️ currently building Bla
 
 ##### Tools I'm passionate about 🛠
 
-![](https://img.shields.io/badge/.NET-C#-%2341B883)
+![](https://img.shields.io/badge/.NET-Csharp-%2341B883)
 ![](https://img.shields.io/badge/.NET-Blazor-%2341B883)
 ![](https://img.shields.io/badge/.NET-MAUI-%23000)
 ![](https://img.shields.io/badge/CSS-tailwindcss-%2306B6D4)
